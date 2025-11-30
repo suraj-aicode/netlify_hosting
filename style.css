@@ -217,7 +217,7 @@ header .menu.active {
 
 .banner .content h1 {
     font-family: sans-serif;
-    font-size: 10em;
+    font-size: 6em;
     color: #fff;
     font-family: 500;
     line-height: 0.8em;
@@ -453,4 +453,5 @@ header .menu.active {
 .banner .pause:hover {
     opacity: 0.1;
     color: #ffffff38;
+
 }
